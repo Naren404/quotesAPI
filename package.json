@@ -1,0 +1,19 @@
+{
+  "name": "quotesapi",
+  "version": "1.0.0",
+  "description": "This is test api to learn MEN.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Naren404/quotesAPI.git"
+  },
+  "author": "Naren404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naren404/quotesAPI/issues"
+  },
+  "homepage": "https://github.com/Naren404/quotesAPI#readme"
+}
